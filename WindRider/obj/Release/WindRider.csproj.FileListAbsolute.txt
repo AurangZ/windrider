@@ -1,0 +1,66 @@
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\WindRider.exe
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\WindRider.pdb
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Release\WindRider.frmMain.resources
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Release\WindRider.Properties.Resources.resources
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Release\WindRider.csproj.GenerateResource.Cache
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Release\WindRider.exe
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Release\WindRider.pdb
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.xml
+c:\windrider\WindRider\WindRider\bin\Release\WindRider.exe
+c:\windrider\WindRider\WindRider\bin\Release\WindRider.pdb
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.dll
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.dll
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.dll
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.xml
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.xml
+c:\windrider\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.xml
+c:\windrider\WindRider\WindRider\obj\Release\ResolveAssemblyReference.cache
+c:\windrider\WindRider\WindRider\obj\Release\WindRider.frmMain.resources
+c:\windrider\WindRider\WindRider\obj\Release\WindRider.Properties.Resources.resources
+c:\windrider\WindRider\WindRider\obj\Release\WindRider.csproj.GenerateResource.Cache
+c:\windrider\WindRider\WindRider\obj\Release\WindRider.exe
+c:\windrider\WindRider\WindRider\obj\Release\WindRider.pdb
+c:\WindRider_2\WindRider\WindRider\bin\Release\WindRider.exe
+c:\WindRider_2\WindRider\WindRider\bin\Release\WindRider.pdb
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.dll
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.dll
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.dll
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.xml
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.xml
+c:\WindRider_2\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.xml
+c:\WindRider_2\WindRider\WindRider\obj\Release\ResolveAssemblyReference.cache
+c:\WindRider_2\WindRider\WindRider\obj\Release\WindRider.frmMain.resources
+c:\WindRider_2\WindRider\WindRider\obj\Release\WindRider.Properties.Resources.resources
+c:\WindRider_2\WindRider\WindRider\obj\Release\WindRider.csproj.GenerateResource.Cache
+c:\WindRider_2\WindRider\WindRider\obj\Release\WindRider.exe
+c:\WindRider_2\WindRider\WindRider\obj\Release\WindRider.pdb
+c:\WindRider_2\WindRider\WindRider\obj\Release\WindRider.Form2.resources
+c:\Windrider_3\WindRider\WindRider\bin\Release\WindRider.exe
+c:\Windrider_3\WindRider\WindRider\bin\Release\WindRider.pdb
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.dll
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.dll
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.dll
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.dll
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.PocketOutlook.xml
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.xml
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Forms.xml
+c:\Windrider_3\WindRider\WindRider\bin\Release\Microsoft.WindowsMobile.Status.xml
+c:\Windrider_3\WindRider\WindRider\obj\Release\ResolveAssemblyReference.cache
+c:\Windrider_3\WindRider\WindRider\obj\Release\WindRider.FormFeedback.resources
+c:\Windrider_3\WindRider\WindRider\obj\Release\WindRider.FormTesting.resources
+c:\Windrider_3\WindRider\WindRider\obj\Release\WindRider.Properties.Resources.resources
+c:\Windrider_3\WindRider\WindRider\obj\Release\WindRider.csproj.GenerateResource.Cache
+c:\Windrider_3\WindRider\WindRider\obj\Release\WindRider.exe
+c:\Windrider_3\WindRider\WindRider\obj\Release\WindRider.pdb

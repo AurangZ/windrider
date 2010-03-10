@@ -1,0 +1,48 @@
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\WindRider.exe
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\WindRider.pdb
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Debug\WindRider.frmMain.resources
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Debug\WindRider.Properties.Resources.resources
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Debug\WindRider.csproj.GenerateResource.Cache
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Debug\WindRider.exe
+C:\Documents and Settings\Legend\My Documents\Visual Studio 2008\Projects\WindRider\WindRider\obj\Debug\WindRider.pdb
+c:\windrider\WindRider\WindRider\bin\Debug\WindRider.exe
+c:\windrider\WindRider\WindRider\bin\Debug\WindRider.pdb
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.dll
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Status.dll
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.xml
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+c:\windrider\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Status.xml
+c:\windrider\WindRider\WindRider\obj\Debug\ResolveAssemblyReference.cache
+c:\windrider\WindRider\WindRider\obj\Debug\WindRider.frmMain.resources
+c:\windrider\WindRider\WindRider\obj\Debug\WindRider.Properties.Resources.resources
+c:\windrider\WindRider\WindRider\obj\Debug\WindRider.csproj.GenerateResource.Cache
+c:\windrider\WindRider\WindRider\obj\Debug\WindRider.exe
+c:\windrider\WindRider\WindRider\obj\Debug\WindRider.pdb
+c:\WindRider_2\WindRider\WindRider\bin\Debug\WindRider.exe
+c:\WindRider_2\WindRider\WindRider\bin\Debug\WindRider.pdb
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.dll
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Status.dll
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.xml
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+c:\WindRider_2\WindRider\WindRider\bin\Debug\Microsoft.WindowsMobile.Status.xml
+c:\WindRider_2\WindRider\WindRider\obj\Debug\ResolveAssemblyReference.cache
+c:\WindRider_2\WindRider\WindRider\obj\Debug\WindRider.frmMain.resources
+c:\WindRider_2\WindRider\WindRider\obj\Debug\WindRider.Properties.Resources.resources
+c:\WindRider_2\WindRider\WindRider\obj\Debug\WindRider.csproj.GenerateResource.Cache
+c:\WindRider_2\WindRider\WindRider\obj\Debug\WindRider.exe
+c:\WindRider_2\WindRider\WindRider\obj\Debug\WindRider.pdb
