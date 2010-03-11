@@ -12,7 +12,7 @@ namespace WindRider
     class Tester
     {
         public const int SHORT_TRANSFERS = 10;
-        public const int TESTING_PORT = 3000;
+        public int[] TESTING_PORT = {21, 53, 80, 4662};
 
         public string[] TESTING_SERVER = { "165.124.182.187" , "165.124.182.187"};
 
@@ -31,7 +31,7 @@ namespace WindRider
             {
                 Random randNum = new Random();
 
-                socketForServer = new TcpClient(TESTING_SERVER[randNum.Next(TESTING_SERVER.Length)], TESTING_PORT);
+                socketForServer = new TcpClient(TESTING_SERVER[randNum.Next(TESTING_SERVER.Length)], TESTING_PORT[randNum.Next(TESTING_PORT.Length)]);
             }
             catch
             {
