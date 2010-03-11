@@ -32,12 +32,14 @@ loop {                          # Servers run forever
 }
 
 fileTests = File.open("log_tests.txt", "a")
-counterTesting = 0
+counterTest = 0
 puts "Testing thread." 
 
-server = TCPServer.open(3000)   # Socket to listen on port 3000
+server = TCPServer.open(80)   # Socket to listen on port 3000
 loop {                          # Servers run forever
   Thread.start(server.accept) do |client|
+    counterTesting = counterTest
+    counterTest = counterTest + 1
 
     clientInfo = ""
     mobileInfo = ""
@@ -82,7 +84,7 @@ loop {                          # Servers run forever
     end
 
     client.close                # Disconnect from the client
-    counterTesting = counterTesting + 1
+
     puts 'Testing end.'
   end
 }
